@@ -1,5 +1,5 @@
 This is a commit in TestDocumentation branch.
-version: 1.0.14.{build}
+version: 1.0.15.{build}
 image: Visual Studio 2017
 before_build:
 - cmd: >-
@@ -22,3 +22,5 @@ test:
     - OutDated
 This is for commit demo.
 This is a chage in TestDocumentation branch
+This is a Test branch
+
