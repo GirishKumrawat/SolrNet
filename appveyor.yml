@@ -14,8 +14,10 @@ build:
   project: solrnet.sln
   verbosity: minimal
   publish_nuget: true
+This is my fouth commit
 test:
   categories:
     except:
     - Integration
     - OutDated
+This is for commit demo.
