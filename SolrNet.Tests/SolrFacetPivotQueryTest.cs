@@ -1,4 +1,5 @@
-﻿using MbUnit.Framework;
+﻿// SolrfacetPivotQueryTest
+using MbUnit.Framework;
 using SolrNet.Impl.FacetQuerySerializers;
 using SolrNet.Utils;
 
